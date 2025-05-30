@@ -27,7 +27,7 @@ Press the following keys to save your file and exit nano:
 
     Ctrl + X → to exit nano editor
 
-4. Make the Script Executable
+### 4. Make the Script Executable
 
 Use the following command to give the script execute permission:
 
@@ -35,7 +35,7 @@ Use the following command to give the script execute permission:
 chmod +x greet.sh
 ```
 
-5. Run the Script
+### 5. Run the Script
 
 Now simply run the script using:
 
